@@ -45,6 +45,10 @@ Python connector to OSIsoft PI SDK
 * Free software: MIT license
 * Documentation: https://piconnect.readthedocs.io.
 
+File Details
+------------
+Connection to the PI SDK is done in the file:
+PIconnect/AFSDK.py
 
 Features
 --------
